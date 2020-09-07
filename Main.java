@@ -1,3 +1,11 @@
+/*
+Program name: Program #2: Initials
+Description: automatically display a users initials when supplied with first. middle and last name.
+Author: Christian Mudd
+Date: 07/09/2020
+Version: 1.0
+*/
+
 import java.util.Scanner;
 
 class Main {
